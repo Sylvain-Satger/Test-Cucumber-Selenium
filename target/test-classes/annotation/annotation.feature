@@ -1,5 +1,5 @@
 Feature: annotation 
-#This is how background can be used to eliminate duplicate steps --
+#This is how background can be used to eliminate duplicate steps 
 
 Background: 
    User navigates to Facebook 
