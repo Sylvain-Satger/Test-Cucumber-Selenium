@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>TestCucumber2</groupId>
-  <artifactId>TestCucumber2</artifactId>
+  <groupId>Test-Cucumber-Selenium</groupId>
+  <artifactId>Test-Cucumber-Selenium</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>TestCucumber2</name>
+  <name>Test-Cucumber-Selenium</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -38,5 +38,12 @@
    <version>1.0.2</version> 
    <scope>test</scope> 
 </dependency>
+<!-- https://mvnrepository.com/artifact/net.masterthought/cucumber-reporting -->
+<dependency>
+    <groupId>net.masterthought</groupId>
+    <artifactId>cucumber-reporting</artifactId>
+    <version>3.10.0</version>
+</dependency>
+
   </dependencies>
 </project>
